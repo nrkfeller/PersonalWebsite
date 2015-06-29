@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "I love Poatatoes!"
+title:  "Things to Come. IoT"
 date:   2015-06-28 19:15:03
 categories: jekyll update
 ---

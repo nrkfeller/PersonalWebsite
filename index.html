@@ -3,12 +3,16 @@ layout: default
 ---
 
 <div class="home">
-  Hello
-
+  <div class='center'>
+    <p>· Hi there, I'm Nick Feller ·</p>
+    <p>- I'm a Computer Engineer from Montreal, Canada -</p>
+    <p>- I currently develop Internet of Things products at Ericsson Canada -</p>
+    <p>- I am a curator at <a href="http://tedxmontreal.com/">TEDxMontreal</a> and <a href="http://tedxconcordia.com/">TEDxConcordia</a> -</p>
+  </div>
   <h1 class="page-heading">Posts</h1>
-
   <ul class="post-list">
     {% for post in site.posts %}
+    <hr>
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
