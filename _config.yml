@@ -1,0 +1,12 @@
+# Site settings
+title: Nick Feller
+email: nrkfeller@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Welcome to my webpage! Stay a while, read a blogpost, check out my code and have a look at my CV.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: NickyFellz
+github_username:  nrkfeller
+
+# Build settings
+markdown: kramdown
