@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "7 Things for True AI"
+title:  "7 Resons Artificial Intelligence != Human Intelligence"
 date:   2014-09-20 19:15:03
 categories: jekyll update
 ---
 
-This post is inspired by readings from [An Eternal Golden Braid] from the author [Douglas Hofstadter].
+This post is inspired by readings from [An Eternal Golden Braid] from the author [Douglas Hofstadter] 1979.
 
 Alot has been made in the past few years about the concerns for artificial intelligence [turning us into pets] or [taking all our jobs].
  These concerns are fueled by some particularly big names in science and technology like Stephen Hawkings, Elon Musk, Raymond Kurzweil, Richard Stallman and many more.
